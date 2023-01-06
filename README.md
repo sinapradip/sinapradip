@@ -29,7 +29,7 @@ Holopin Collection:<br>
 </div>  
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinapradip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinapradip&layout=compact)](https://github.com/sinapradip/github-readme-stats)
 
 <h4>📫 Reach me on  :</h4>
    <div id="badges">
