@@ -30,6 +30,7 @@ Holopin Collection:<br>
 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinapradip&layout=compact)](https://github.com/sinapradip/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinapradip&langs_count=6&layout=compact)](https://github.com/sinapradip)
 
 <h4>📫 Reach me on  :</h4>
    <div id="badges">
