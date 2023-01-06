@@ -36,10 +36,10 @@ Holopin Collection:<br>
 
 <h4>📫 Reach me on  :</h4>
    <div id="badges">
-  <a href="https://np.linkedin.com/in/nirajan-malla-36a111210">
+  <a href="[https://np.linkedin.com/in/nirajan-malla-36a111210](https://www.linkedin.com/in/sinapradip/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://youtube.com/c/nirajanmalla">
+  <a href="https://youtube.com/c/sinapradip">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
      </a>
   
