@@ -32,11 +32,11 @@ Holopin Collection:<br>
 </div>  
   
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinapradip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4>📫 Reach me on  :</h4>
    <div id="badges">
-  <a href="[https://np.linkedin.com/in/nirajan-malla-36a111210](https://www.linkedin.com/in/sinapradip/)">
+  <a href="https://np.linkedin.com/in/sinapradip">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtube.com/c/sinapradip">
