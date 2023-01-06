@@ -2,7 +2,7 @@
 - 👀 I’m interested in development and security.
 - 🌱 I’m currently covering Full Stack Development.
 - 💞️ I’m looking to collaborate on business ideas and projects.
-- <div>
+<div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinapradip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
