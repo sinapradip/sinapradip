@@ -28,8 +28,9 @@ Holopin Collection:<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>  
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinapradip&layout=compact)](https://github.com/sinapradip)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
+  
+  [![sinapradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinapradip)](https://github.com/sinapradip/github-readme-stats)
 
 <h4>📫 Reach me on  :</h4>
    <div id="badges">
