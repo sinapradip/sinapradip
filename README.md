@@ -4,12 +4,6 @@
 - 💞️ I’m looking to collaborate on business ideas and projects.
 <div>
   
-
-
-
-Holopin Collection:<br>
-
-[![An image of @sinapradip's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sinapradip)](https://holopin.io/@sinapradip)
   
   
 <h4>Skills I am familiar with:</h4>
