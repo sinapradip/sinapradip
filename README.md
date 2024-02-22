@@ -8,11 +8,7 @@
   
 <h4>Skills I am familiar with:</h4>
  <br/>
-<div>
-  <img src="https://github.com/NirajanM/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div>  
+ 
 <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinapradip&langs_count=6&layout=compact)](https://github.com/sinapradip)
