@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on business ideas and projects.
 <div>
 
-I feel frustrated when my code doesn't work as I expected :( 
-But later on, when I finally fix it and it works, the happiness is overwhelming :)
+I feel frustrated when my code doesn't work as I expected : ( 
+But later on, when I finally fix it and it works, the happiness is overwhelming : )
   
 <!---
 sinapradip/sinapradip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
