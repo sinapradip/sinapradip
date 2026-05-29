@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on business ideas and projects.
 <div>
 
-I am frustrated when your code doesn't work as I expected. : ( 
+I feel frustrated when my code doesn't work as I expected :( 
 But later on, when I finally fix it and it works, the happiness is overwhelming :)
   
 <!---
